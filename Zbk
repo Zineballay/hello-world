@@ -1,0 +1,6 @@
+ { "type": "taskA", "tag": "Teacher's Favorite Cake", "info": "Chocolate" }
+{ "type": "taskB", "title": "Regina Gomez’s Birthday Dinner", "location": "La Moresca Chapalita", "begins": "12/1/2024 8:00 PM", "ends": "12/1/2024 11:00 PM", "calendar": "Hanging Out", "notes": "Bring a dessert" }
+{ "type": "taskC", "title": "Pick up lunch", "time": "12:30 PM", "notes": "Grab lunch before going to school" }
+{ "type": "taskD", "title": "Complete Math Homework", "list_location"; "Homework", "due": "12/3/2024 5:00 PM", "notes": "Solve problems 1-10 in the textbook" }
+{ "type": "taskE", "name": "John", "lastname": "Doe", "phone": "3312851441", "email": "johndoe@email.com", "notes": "Met at the conference" }
+{ "type": "taskE", "name": "Jane", "lastname": "Smith", "phone": "3312931441", "email": "", "notes": "College friend" 
